@@ -1,0 +1,8 @@
+{
+  "name": "Wanderlust - Airbnb Clone",
+  "description": "Full-stack vacation rental & booking platform featuring interactive map exploration, date-conflict validation, verified guest reviews, and host management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
